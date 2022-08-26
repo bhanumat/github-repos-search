@@ -1,0 +1,26 @@
+{
+  "name": "github-repos-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.com/bhanumat/github-repos-search",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhanumat/github-repos-search.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "repos",
+    "repositories",
+    "sort",
+    "stars"
+  ],
+  "author": "Bhanumat Wiwatmaikul <bhanumat.w@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
